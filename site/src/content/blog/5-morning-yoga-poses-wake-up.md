@@ -1,9 +1,9 @@
 ---
 title: "5 Morning Yoga Poses That Wake You Up Better Than an Alarm"
 description: "Five gentle morning yoga poses to boost energy, ease stiffness, and start your day calm and clear — no experience needed, just five minutes."
-pubDate: 2026-07-10T08:00:00Z
+pubDate: 2026-07-09T22:12:48Z
 tags: ["morning yoga", "yoga for beginners", "wellness", "energy"]
-draft: true
+draft: false
 image: "/images/flow-s1.png"
 ---
 
