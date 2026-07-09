@@ -1,0 +1,41 @@
+<svg viewBox="0 0 720 470" xmlns="http://www.w3.org/2000/svg" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif" role="img" aria-label="Five-pose morning yoga flow">
+  <rect x="0" y="0" width="720" height="470" fill="#ffffff"/>
+  <text x="36" y="44" font-size="24" font-weight="700" fill="#1a1a1a">5 Morning Yoga Poses — The Flow</text>
+  <text x="36" y="68" font-size="14" fill="#6b7280">About 5 minutes · move gently with your breath</text>
+  <line x1="54" y1="100" x2="54" y2="420" stroke="#d7e6dc" stroke-width="3"/>
+  <g>
+    <circle cx="54" cy="120" r="11" fill="#1f6f43"/><text x="54" y="124" font-size="12" font-weight="700" fill="#fff" text-anchor="middle">1</text>
+    <rect x="82" y="104" width="602" height="52" rx="10" fill="#f2f8f4" stroke="#d7e6dc"/>
+    <text x="100" y="128" font-size="16" font-weight="700" fill="#1a1a1a">Child's Pose</text>
+    <text x="100" y="147" font-size="12.5" fill="#4b5563">Arrive and soften — forehead down, breathe into your back</text>
+    <text x="668" y="135" font-size="12" fill="#1f6f43" text-anchor="end" font-weight="600">5 breaths</text>
+  </g>
+  <g>
+    <circle cx="54" cy="190" r="11" fill="#1f6f43"/><text x="54" y="194" font-size="12" font-weight="700" fill="#fff" text-anchor="middle">2</text>
+    <rect x="82" y="174" width="602" height="52" rx="10" fill="#f2f8f4" stroke="#d7e6dc"/>
+    <text x="100" y="198" font-size="16" font-weight="700" fill="#1a1a1a">Cat-Cow</text>
+    <text x="100" y="217" font-size="12.5" fill="#4b5563">Wake the spine — arch and round with each breath</text>
+    <text x="668" y="205" font-size="12" fill="#1f6f43" text-anchor="end" font-weight="600">5 rounds</text>
+  </g>
+  <g>
+    <circle cx="54" cy="260" r="11" fill="#1f6f43"/><text x="54" y="264" font-size="12" font-weight="700" fill="#fff" text-anchor="middle">3</text>
+    <rect x="82" y="244" width="602" height="52" rx="10" fill="#f2f8f4" stroke="#d7e6dc"/>
+    <text x="100" y="268" font-size="16" font-weight="700" fill="#1a1a1a">Downward Dog</text>
+    <text x="100" y="287" font-size="12.5" fill="#4b5563">Full-body yawn — hips up, pedal the heels</text>
+    <text x="668" y="275" font-size="12" fill="#1f6f43" text-anchor="end" font-weight="600">5 breaths</text>
+  </g>
+  <g>
+    <circle cx="54" cy="330" r="11" fill="#1f6f43"/><text x="54" y="334" font-size="12" font-weight="700" fill="#fff" text-anchor="middle">4</text>
+    <rect x="82" y="314" width="602" height="52" rx="10" fill="#f2f8f4" stroke="#d7e6dc"/>
+    <text x="100" y="338" font-size="16" font-weight="700" fill="#1a1a1a">Low Lunge</text>
+    <text x="100" y="357" font-size="12.5" fill="#4b5563">Open tight hips — sink the back hip, switch sides</text>
+    <text x="668" y="345" font-size="12" fill="#1f6f43" text-anchor="end" font-weight="600">5 each side</text>
+  </g>
+  <g>
+    <circle cx="54" cy="400" r="11" fill="#1f6f43"/><text x="54" y="404" font-size="12" font-weight="700" fill="#fff" text-anchor="middle">5</text>
+    <rect x="82" y="384" width="602" height="52" rx="10" fill="#f2f8f4" stroke="#d7e6dc"/>
+    <text x="100" y="408" font-size="16" font-weight="700" fill="#1a1a1a">Standing Forward Fold</text>
+    <text x="100" y="427" font-size="12.5" fill="#4b5563">Reset — let head and arms hang, then roll up slowly</text>
+    <text x="668" y="415" font-size="12" fill="#1f6f43" text-anchor="end" font-weight="600">5 breaths</text>
+  </g>
+</svg>

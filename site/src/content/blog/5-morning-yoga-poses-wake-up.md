@@ -16,6 +16,10 @@ There's a gentler way to meet the morning — and it takes about five minutes. T
 ## Why Morning Yoga Hits Different
 Overnight, your body stiffens and your breathing goes shallow. A few minutes of intentional movement **wakes up circulation, loosens tight spots, and steadies your breath** — which is basically a natural, side-effect-free espresso. Do it before the scrolling starts and you'll feel the difference all day.
 
+Here's the full five-pose flow before we break down each one:
+
+![The five-pose morning yoga flow](/images/flow-diagram.svg)
+
 ## 1. Child's Pose (Start Soft)
 Knees wide, big toes touching, fold forward and rest your forehead down. Breathe into your back. This is your "hello, I'm awake now" pose — no pressure, just permission to arrive.
 
